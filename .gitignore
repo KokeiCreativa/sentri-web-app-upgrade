@@ -1,0 +1,12 @@
+# Backend
+backend/__pycache__/
+backend/*.pkl
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# VSCode & Mac
+.vscode/
+.DS_Store
