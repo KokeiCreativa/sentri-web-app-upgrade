@@ -1,3 +1,4 @@
+// 📁 frontend/src/pages/Deteksi.jsx
 import { useState } from "react";
 
 function Deteksi() {

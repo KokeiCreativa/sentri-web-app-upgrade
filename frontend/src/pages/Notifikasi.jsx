@@ -1,3 +1,4 @@
+// 📁 frontend/src/pages/Notifikasi.jsx
 import { useEffect, useState } from "react";
 
 function Notifikasi() {

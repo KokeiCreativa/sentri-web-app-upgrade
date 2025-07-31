@@ -1,3 +1,4 @@
+// 📁 frontend/src/pages/Edukasi.jsx
 function Edukasi() {
   return (
     <div className="p-6 max-w-4xl mx-auto">
